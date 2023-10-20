@@ -1,5 +1,6 @@
 # My Backend Stack
 
-+ Express + TypeScript
-+ tsx for dev mode
-+ swc for build mode
+## Stack
+
++ 🚀E Framework: Express.js + TypeScript
++ 🔧 Dev Tools: tsx + swc 

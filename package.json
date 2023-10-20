@@ -1,6 +1,7 @@
 {
   "name": "starter-backend",
   "version": "1.0.0",
+  "author": "David Dong <hi@daviddong.me>",
   "description": "",
   "type": "module",
   "scripts": {
@@ -12,8 +13,6 @@
     "node",
     "express"
   ],
-  "author": "David Dong <hi@daviddong.me>",
-  "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
@@ -36,5 +35,6 @@
     "prettier": "^3.0.3",
     "tsx": "^3.14.0",
     "typescript": "^5.2.2"
-  }
+  },
+  "license": "MIT"
 }
