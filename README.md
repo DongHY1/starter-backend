@@ -2,5 +2,5 @@
 
 ## Stack
 
-+ 🚀E Framework: Express.js + TypeScript
++ 🚀 Framework: Express.js + TypeScript
 + 🔧 Dev Tools: tsx + swc 
